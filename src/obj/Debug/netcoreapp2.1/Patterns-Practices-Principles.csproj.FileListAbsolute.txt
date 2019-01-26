@@ -1,0 +1,11 @@
+C:\Projects\Patterns-Practices-Principles\src\bin\Debug\netcoreapp2.1\Patterns-Practices-Principles.deps.json
+C:\Projects\Patterns-Practices-Principles\src\bin\Debug\netcoreapp2.1\Patterns-Practices-Principles.runtimeconfig.json
+C:\Projects\Patterns-Practices-Principles\src\bin\Debug\netcoreapp2.1\Patterns-Practices-Principles.runtimeconfig.dev.json
+C:\Projects\Patterns-Practices-Principles\src\bin\Debug\netcoreapp2.1\Patterns-Practices-Principles.dll
+C:\Projects\Patterns-Practices-Principles\src\bin\Debug\netcoreapp2.1\Patterns-Practices-Principles.pdb
+C:\Projects\Patterns-Practices-Principles\src\obj\Debug\netcoreapp2.1\Patterns-Practices-Principles.csprojAssemblyReference.cache
+C:\Projects\Patterns-Practices-Principles\src\obj\Debug\netcoreapp2.1\Patterns-Practices-Principles.csproj.CoreCompileInputs.cache
+C:\Projects\Patterns-Practices-Principles\src\obj\Debug\netcoreapp2.1\Patterns-Practices-Principles.AssemblyInfoInputs.cache
+C:\Projects\Patterns-Practices-Principles\src\obj\Debug\netcoreapp2.1\Patterns-Practices-Principles.AssemblyInfo.cs
+C:\Projects\Patterns-Practices-Principles\src\obj\Debug\netcoreapp2.1\Patterns-Practices-Principles.dll
+C:\Projects\Patterns-Practices-Principles\src\obj\Debug\netcoreapp2.1\Patterns-Practices-Principles.pdb
